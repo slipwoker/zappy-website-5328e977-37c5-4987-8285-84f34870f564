@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+הילינג מים חיים מציעה טיפולי הילינג אנרגטי מעמיקים שיחדשו את גופך, נפשך ורוחך. טיפולים בקליניקה ומרחוק — כי הריפוי מגיע אליך. קבע תור היום.
+
+### טיפולים
+https://example.com/treatments
+גלה את מגוון טיפולי האנרגיה הרוחנית שלנו: סדרות טיפולים מותאמות אישית לעייפות כרונית, מתח ועומס נפשי — בקליניקה או מרחוק. בחר את הדרך שלך לריפוי.
+
+### אודות
+https://example.com/about
+מי עומדת מאחורי הילינג מים חיים? הכירי מטפלת הוליסטית עם ניסיון עמוק בריפוי אנרגטי, שמאמינה שכל אחד ראוי לחיות בזרימה, בשלמות ובאור. הסיפור שלה הוא גם שלך.
+
+### צור קשר
+https://example.com/contact
+רוצה להתחיל מסע של ריפוי אנרגטי? צרי קשר עם הילינג מים חיים לקביעת טיפול בקליניקה או הילינג מרחוק אונליין. נשמח לענות על כל שאלה ולהתאים לך את הדרך הנכונה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
