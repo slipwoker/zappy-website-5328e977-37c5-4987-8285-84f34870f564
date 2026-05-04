@@ -254,10 +254,11 @@ h6 {
   font-family: 'Rubik', sans-serif;
   color: var(--text-dark);
   font-weight: 600;
-}
+
+  font-size: 50px;}
 
 h1 {
-  font-size: 48px !important;
+  font-size: 55px;
   font-weight: 700 !important;
   line-height: 1.2 !important;
   margin-bottom: 1rem !important;
@@ -355,7 +356,7 @@ a:hover {
 
 @media (max-width: 1024px) {
   h1 {
-    font-size: 36px !important;
+    font-size: 55px;
   }
 
   h2 {
@@ -373,7 +374,7 @@ a:hover {
 
 @media (max-width: 768px) {
   h1 {
-    font-size: 28px !important;
+    font-size: 55px;
     margin-bottom: 1rem !important;
     margin-top: 0.5rem !important;
   }
@@ -2599,7 +2600,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 /* ── H1 ── */
 .index-hero-section .index-hero-h1 {
   font-family: 'Rubik', sans-serif;
-  font-size: 3rem;
+  font-size: 55px;
   font-weight: 600;
   line-height: 1.2;
   color: var(--text-dark);
@@ -2731,7 +2732,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   }
 
   .index-hero-section .index-hero-h1 {
-    font-size: 2.1rem;
+    font-size: 55px;
     margin-bottom: 14px;
   }
 
@@ -2768,7 +2769,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   }
 
   .index-hero-section .index-hero-h1 {
-    font-size: 2.5rem;
+    font-size: 55px;
   }
 }
 
@@ -8095,7 +8096,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
   /* 4. TYPOGRAPHY SCALING - Only headings, NOT spans (breaks icons) */
   h1 {
-    font-size: clamp(28px, 8vw, 48px) !important;
+    font-size: 55px;
   }
   
   h2 {
@@ -8227,7 +8228,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .legal-page-content h1 {
-  font-size: 2.5rem;
+  font-size: 55px;
   margin-bottom: 1rem;
   color: inherit;
 }
